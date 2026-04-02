@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/Evandita/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This is the capstone project for the IBM Applied DevOps Engineering course. It implements an Account microservice using Python Flask with RESTful APIs for CRUD operations.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
